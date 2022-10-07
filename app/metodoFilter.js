@@ -25,3 +25,5 @@ function exibirValorTotalDosLirvosDisponiveisNaTela(valorTotal) {
     <p>Todos os livros disponíveis por R$ <span id="valor">${valorTotal}</span></p>
     </div>`;
 }
+
+console.log("saddas")
